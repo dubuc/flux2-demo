@@ -1,0 +1,4 @@
+namespace: frontend
+
+resources:
+- ./ingress-nginx.yaml

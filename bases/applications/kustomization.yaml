@@ -1,0 +1,4 @@
+resources:
+- ./namespaces/
+- ./sources/
+- ./ingress-nginx/
