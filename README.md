@@ -14,7 +14,7 @@ This repository holds a demo of Flux v2.
 ## Repository Structure
 
 ```
-deploy/
+bases/
   applications/
   infrastructure/
 clusters/
@@ -24,4 +24,4 @@ clusters/
     prod/
 ```
 
-The `deploy` holds the base application and infrastructure component declarations. The `clusters` folder hold the specific cluster configuration/overlays of both, the application and infrastructure components.
+The `bases` holds the base application and infrastructure component declarations. The `clusters` folder hold the specific cluster configuration/overlays of both, the application and infrastructure components.
